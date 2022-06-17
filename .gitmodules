@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gasper"]
+	path = gasper
+	url = https://github.com/fabnavarro/gasper
+	shallow = true
+	registered = true
+[submodule "rwavelet"]
+	path = rwavelet
+	url = https://github.com/fabnavarro/rwavelet
+	shallow = true
+	registered = true

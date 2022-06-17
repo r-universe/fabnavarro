@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gasper",
+    "oncran": true
+  },
+  {
+    "package": "rwavelet",
+    "oncran": true
+  }
+]
